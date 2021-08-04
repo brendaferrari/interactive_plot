@@ -56,6 +56,9 @@ Your output will be stored at interactive_plot.html
 
 * [Custom Tooltip](https://docs.bokeh.org/en/0.11.1/docs/user_guide/tools.html#custom-tooltip)
 
+**The dataset was retrieved from:**
+
+* [rdkit github](https://github.com/rdkit/rdkit/blob/master/Docs/Book/data/bzr.smi)
 
 **This script will be updated.**
 
